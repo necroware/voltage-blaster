@@ -32,6 +32,7 @@ F 0 "U1" V 1746 2295 50  0000 R CNN
 F 1 "LM7905" V 1655 2295 50  0000 R CNN
 F 2 "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown" H 1700 2200 50  0001 C CIN
 F 3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf" H 1700 2400 50  0001 C CNN
+F 4 "C427634" V 1700 2400 50  0001 C CNN "LCSC"
 	1    1700 2400
 	0    -1   -1   0   
 $EndComp
@@ -43,6 +44,7 @@ F 0 "D1" H 1550 1750 50  0000 C CNN
 F 1 "-5V" H 1550 1850 50  0000 C CNN
 F 2 "LED_THT:LED_D5.0mm" H 1550 1950 50  0001 C CNN
 F 3 "~" H 1550 1950 50  0001 C CNN
+F 4 "C99697" H 1550 1950 50  0001 C CNN "LCSC"
 	1    1550 1950
 	-1   0    0    1   
 $EndComp
@@ -54,6 +56,7 @@ F 0 "R1" V 1750 1950 50  0000 C CNN
 F 1 "330" V 1850 1950 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 1780 1950 50  0001 C CNN
 F 3 "~" H 1850 1950 50  0001 C CNN
+F 4 "C58608" V 1850 1950 50  0001 C CNN "LCSC"
 	1    1850 1950
 	0    1    1    0   
 $EndComp
@@ -65,6 +68,7 @@ F 0 "C1" H 2468 1946 50  0000 L CNN
 F 1 "33u" H 2468 1855 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 2388 1750 50  0001 C CNN
 F 3 "~" H 2350 1900 50  0001 C CNN
+F 4 "C3314" H 2350 1900 50  0001 C CNN "LCSC"
 	1    2350 1900
 	1    0    0    -1  
 $EndComp
@@ -76,6 +80,7 @@ F 0 "C2" H 2232 2804 50  0000 R CNN
 F 1 "33u" H 2232 2895 50  0000 R CNN
 F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 2388 2700 50  0001 C CNN
 F 3 "~" H 2350 2850 50  0001 C CNN
+F 4 "C3314" H 2350 2850 50  0001 C CNN "LCSC"
 	1    2350 2850
 	-1   0    0    1   
 $EndComp
