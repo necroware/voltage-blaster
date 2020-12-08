@@ -6,7 +6,7 @@ in cooperation of PhilsComputerLab with Necroware.
 
 ![voltage-blaster-pcb](voltage-blaster-pcb.png)
 
-# Why do I need this?
+## Why do I need this?
 
 Back in the days of XT and AT compatible computers the standard power supply had
 to provide 5V, 12V, -12V and -5V. A lot of hardware, especially sound cards,
@@ -22,7 +22,7 @@ expansion card, which needs this voltage. Famous examples are Creative Sound
 Blaster 2.0, Pro Audio Spectrum sound cards and many others. This is where the
 Voltage Blaster comes into play.
 
-# How does it work?
+## How does it work?
 
 All voltage pins in the ISA slots are directly connected to each other and to
 the PSU. When using a PSU without -5V support, the ISA slot pin B5 is just
@@ -32,7 +32,7 @@ reverse. Well since the ISA slot pin B7 provides -12V, it's just a matter of
 using a linear voltage regulator LM7905 and connect its output to the pin B5 of
 the ISA slot.
 
-# Bill of materials
+## Bill of materials
 
 Reference  |#  |LCSC   |Description
 -----------|---|-------|-------------------------------------
