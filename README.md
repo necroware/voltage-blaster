@@ -32,5 +32,15 @@ reverse. Well since the ISA slot pin B7 provides -12V, it's just a matter of
 using a linear voltage regulator LM7905 and connect its output to the pin B5 of
 the ISA slot.
 
+# Bill of materials
 
+Reference  |#  |LCSC   |Description
+-----------|---|-------|-------------------------------------
+U1         | 1 |C427634| linear voltage regulator LM7905
+C1,C2      | 2 |C3314  | electrolytic capacitor 33µF
+D1         | 1 |C99697 | light emitting diode (optional)
+R1         | 1 |C58608 | resistor 330 Ohm (optional)
+
+Parts D1 and R1 are optional and are only required if you want that the diode is
+lighting, when -5V are generated.
 
