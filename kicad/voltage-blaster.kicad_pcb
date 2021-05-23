@@ -13,7 +13,7 @@
   (title_block
     (title "Voltage Blaster")
     (date 2021-05-23)
-    (rev 2.0)
+    (rev 1.1)
     (company "PhilsComputerLab & Necroware")
     (comment 1 "by Scorp")
   )
@@ -578,7 +578,7 @@
   (gr_text "PC back\n<-----" (at 158.242 58.166) (layer B.SilkS) (tstamp 5FCF8C39)
     (effects (font (size 1.9 1.9) (thickness 0.4)) (justify mirror))
   )
-  (gr_text "rev 2.0" (at 75.565 61.595) (layer F.SilkS)
+  (gr_text "rev 1.1" (at 75.565 61.595) (layer F.SilkS)
     (effects (font (size 1.2 1.2) (thickness 0.15)))
   )
   (gr_text "by PhilsComputerLab & Necroware" (at 92.075 57.15) (layer F.SilkS)
